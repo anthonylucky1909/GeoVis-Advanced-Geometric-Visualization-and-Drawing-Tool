@@ -1,7 +1,7 @@
 # LiteDraw: Geometry Drawing App ✨
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15.9-41CD52.svg)](https://pypi.org/project/PyQt5/)
 
 ## 📖 Overview
